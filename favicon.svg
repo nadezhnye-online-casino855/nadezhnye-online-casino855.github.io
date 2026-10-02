@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Разбор тревоги">
+  <rect width="48" height="48" rx="11" fill="#5f6b23"/>
+  <path d="M10 30 L20 20 L27 27 L38 15" fill="none" stroke="#f3eee1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  <circle cx="19" cy="22" r="8.5" fill="none" stroke="#f3eee1" stroke-width="2.4"/>
+  <line x1="25.4" y1="28.4" x2="33" y2="36" stroke="#f3eee1" stroke-width="3" stroke-linecap="round"/>
+  <text x="19" y="26" text-anchor="middle" font-family="Vollkorn, Georgia, serif" font-weight="700" font-size="11" fill="#f3eee1">Р</text>
+</svg>
